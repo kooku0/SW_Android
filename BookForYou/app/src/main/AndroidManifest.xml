@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="kr.ac.pusan.cs.bookforyou">
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyAP6gfaOE8JTKtA2G6Ul0kDaM3i9n3hF_g" />
+
+        <activity android:name=".Activity_Main" />
+        <activity android:name=".PhoneAuthActivity" />
+        <activity android:name=".Noti_TEMP" />
+        <activity
+            android:name=".Item_splash"
+            android:screenOrientation="portrait"
+            android:theme="@style/SplashTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Class_ZxingActivity" />
+        <activity android:name=".Activity_RealMain" />
+        <activity android:name=".Activity_MapBookStore" />
+        <activity android:name=".Activity_RegistSelect" />
+        <activity android:name=".Acitivity_RegistBookBarcode" />
+        <activity android:name=".Regist_Book_Info" />
+        <activity android:name=".Activity_RegistBookSearch" />
+        <activity android:name=".Class_SearchActivity" />
+        <activity android:name=".Activity_MyInfo"></activity>
+    </application>
+
+</manifest>

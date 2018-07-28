@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "1002118323134",
+    "firebase_url": "https://book-for-you.firebaseio.com",
+    "project_id": "book-for-you",
+    "storage_bucket": "book-for-you.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002118323134:android:b3a99935bc0fceff",
+        "android_client_info": {
+          "package_name": "com.example.alswnsdl.anddro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002118323134-dhgh37v0qag69ts0mjkgrtv2smrhdeao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG4W4VQpY-uFfqwPtx44vIXKLFdY4qtUA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002118323134:android:a59c761a775f4b78",
+        "android_client_info": {
+          "package_name": "com.example.koomg.bookapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002118323134-dhgh37v0qag69ts0mjkgrtv2smrhdeao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG4W4VQpY-uFfqwPtx44vIXKLFdY4qtUA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002118323134:android:81f117eb12b9bc30",
+        "android_client_info": {
+          "package_name": "com.example.koomg.sms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002118323134-dhgh37v0qag69ts0mjkgrtv2smrhdeao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG4W4VQpY-uFfqwPtx44vIXKLFdY4qtUA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002118323134:android:560deff8d9d1b16f",
+        "android_client_info": {
+          "package_name": "kr.ac.pusan.cs.bookforyou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002118323134-dhgh37v0qag69ts0mjkgrtv2smrhdeao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG4W4VQpY-uFfqwPtx44vIXKLFdY4qtUA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
